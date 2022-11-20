@@ -1,0 +1,14 @@
+Output Report
+-------------
+The total number of records in the file is: 30
+
+The number of suspect IP addresses is: 2
+
+The percentage of suspect IP addresses is: 6.667
+
+Suspect IP Addresses
+--------------------
+IP Address = 233.012.063.200  Date and Time = Wed Jul  6 08:25:46 2022
+
+IP Address = 233.012.196.049  Date and Time = Wed Jul  6 08:25:48 2022
+
