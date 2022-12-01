@@ -1,4 +1,4 @@
-def main():
+	def main():
 
     #checking the input file
 
